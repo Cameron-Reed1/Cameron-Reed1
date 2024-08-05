@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a UVU Computer Science major, and am currently enjoying wrinting TUI apps in Zig
+
 <!--
 **Cameron-Reed1/Cameron-Reed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
